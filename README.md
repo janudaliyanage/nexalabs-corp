@@ -1,1 +1,1 @@
-#NexaLabs corp - Internall Wiki
+# NexaLabs corp - Internal Wiki
